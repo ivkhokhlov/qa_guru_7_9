@@ -3,3 +3,4 @@ venv
 geckodriver.log
 .pytest_cache
 allure-report
+__pycache__
