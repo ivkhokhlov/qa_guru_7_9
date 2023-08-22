@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Tue Aug 22 13:30:03 GMT 2023","Tue Aug 22 13:30:04 GMT 2023","636","","test_steps","","","","test_if_issue_is_visible",""
+"broken","Tue Aug 22 13:30:01 GMT 2023","Tue Aug 22 13:30:03 GMT 2023","2028","","test_pure","","","","test_if_issue_is_visible",""
+"broken","Tue Aug 22 13:30:04 GMT 2023","Tue Aug 22 13:30:05 GMT 2023","636","","test_steps_decorated","","","","test_if_issue_is_visible",""
