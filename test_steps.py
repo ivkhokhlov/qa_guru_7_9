@@ -9,7 +9,7 @@ from selene.support.shared.jquery_style import s
 @allure.severity(Severity.CRITICAL)
 @allure.label("owner", "IvanKhokhlov")
 @allure.feature("Github Issues")
-@allure.story("Пользователь видит созданные Issues")
+@allure.story("Пользователь видит созданные Issues - with steps")
 @allure.link("https://github.com", name="Testing")
 def test_if_issue_is_visible(browser_settings):
     with allure.step('Открыть главную страницу GitHub'):
