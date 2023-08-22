@@ -37,7 +37,7 @@ def check_if_issue_is_visible(number):
 @allure.severity(Severity.CRITICAL)
 @allure.label("owner", "IvanKhokhlov")
 @allure.feature("Github Issues")
-@allure.story("Пользователь видит созданные Issues - with steps")
+@allure.story("Пользователь видит созданные Issues - decorated")
 @allure.link("https://github.com", name="Testing")
 def test_if_issue_is_visible(browser_settings):
     open_main_page()
